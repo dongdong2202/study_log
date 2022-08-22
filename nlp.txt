@@ -1,0 +1,11 @@
+自然语言
+
+词频： TF term frequency
+一个单词出现的频率。 TF(w)= w出现次数/总单词数
+IDF： inverse-document-frequency  IDF(w) = logN/n(w), N=总文章数量， n（w）出现单词w的文章数量
+TF-INF： TF(W)*IDF(W)
+
+TF-INF是启发式表示法，输入法预测上很少应用，因为都是启发式
+
+
+
